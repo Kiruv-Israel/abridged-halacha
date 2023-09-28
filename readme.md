@@ -21,3 +21,7 @@ We invite scholars, students of Jewish law, and anyone interested in contributin
 ### Disclaimer
 
 While we will endeavor to adhere to the sources and maintain the highest level of accuracy, it's imperative to consult qualified rabbinic authorities for a complete understanding and practical implementation of Jewish law.
+
+### License Agreement
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. This means you are free to share the material but must give appropriate credit, may not use the material for commercial purposes, and may not distribute derivative works based on it.
